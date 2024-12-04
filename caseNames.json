@@ -11068,6 +11068,73 @@
 				"tort law"
 			],
 			"summary": "<strong>Facts</strong><br>• The claimant suffered an asthma attack and an ambulance was called but arrived late, leading to a respiratory arrest.<br>• The London Ambulance Service (LAS) was sued for negligence due to the delay.<br>• The trial judge found that the ambulance crew falsified the arrival time and that the delay was culpable.<br><br><strong>Issues</strong><br>• LAS argued that, similar to other emergency services, they should not be liable for failing to arrive within a reasonable time or at all, citing cases like Capital & Counties Plc v Hampshire County Council.<br>• The claimant argued that once the ambulance service accepted the call, a duty of care was established, focusing on the specific individual rather than the public at large.<br><br><strong>Decision</strong><br>• The Court of Appeal dismissed the appeal, holding that the LAS owed a duty of care to the claimant and was negligent in its delayed response.<br>• The court differentiated this case from other emergency services cases by emphasizing the specific acceptance of the call and the direct service to an individual.<br><br><strong>Key passage(s)</strong><br>• LORD WOOLF MR: 'The ambulance call having been made, apparently attendance is automatic. This does not prevent acceptance. If having attended there was no reason for the ambulance to go to the hospital there would be no obligation to make an unnecessary journey.'"
+		},
+		{
+			"name": "Khan v Meadows (Rev2) [2019] EWCA Civ 152",
+			"keywords": [
+				"wrongful birth",
+				"medical negligence",
+				"causation",
+				"SAAMCO principle",
+				"tort law"
+			],
+			"summary": "<strong>Facts</strong><br>• The respondent's son, A, was born with haemophilia and autism. The appellant, a general practitioner, failed to correctly diagnose the respondent as a carrier of the haemophilia gene in 2006, leading the respondent to believe any child she had would not have the condition.<br>• The respondent argued that had she known she was a carrier, she would have undergone testing and terminated the pregnancy upon discovering the fetus had haemophilia. The autism was not caused by the haemophilia or increased by the appellant's negligence.<br>• The trial and initial appeal focused on whether the appellant was liable for costs associated with both conditions. Damages were agreed at £1,400,000 if only haemophilia was considered, and £9,000,000 if both conditions were considered.<br><br><strong>Issues</strong><br>• The appellant accepted liability for costs associated with haemophilia but contested liability for autism-related costs. The main legal question was whether the appellant's duty extended to consequences (autism) not directly caused by the breach (failure to diagnose haemophilia carrier status).<br>• The respondent relied on principles from wrongful birth cases suggesting a doctor's duty in negligence covers all foreseeable consequences of a pregnancy if the doctor's negligence leads to an unwanted birth.<br><br><strong>Decision</strong><br>• The Court of Appeal allowed the appeal, holding that the appellant's duty was limited to providing information specific to the risk of haemophilia. The broader consequences of the pregnancy, such as autism, were outside the scope of this duty as per the SAAMCO principle.<br><br><strong>Key passage(s)</strong><br>• Lady Justice Nicola Davies: 'Given the limits of the advice sought and the appropriate testing which should have been provided the scope of duty test identified by Lord Hoffman in SAAMCO is not only relevant but determinative of the issues which have to be addressed by a court.'"
+		},
+		{
+			"name": "Khorasandjian v Bush [1993] EWCA Civ 18",
+			"keywords": [
+				"harassment",
+				"injunction",
+				"private nuisance",
+				"interlocutory order",
+				"tort law"
+			],
+			"summary": "<strong>Facts</strong><br>• The plaintiff sought an interlocutory injunction against the defendant to prevent harassment, which included prohibiting the defendant from using violence, harassing, pestering, or communicating with the plaintiff in any manner.<br>• The injunction was initially granted by Judge Stockdale and later challenged by the defendant on the grounds of jurisdiction and the definition of harassment under tort law.<br><br><strong>Issues</strong><br>• The defendant argued that the terms 'harassing', 'pestering', or 'communicating with' the plaintiff were not recognized torts under English law, and thus, the court lacked jurisdiction to grant an interlocutory injunction on these grounds.<br>• The plaintiff maintained that the injunction was necessary to prevent further harassment and was within the court's jurisdiction.<br><br><strong>Decision</strong><br>• The Court of Appeal upheld the injunction, finding that it was justifiable under the circumstances and that the court had jurisdiction to grant such an injunction to prevent potential harm to the plaintiff.<br><br><strong>Key passage(s)</strong><br>• LORD JUSTICE DILLON: 'It is, of course, not in dispute that an interlocutory injunction can, in an appropriate case, be granted quia timet before an actual tort has been committed against a plaintiff. It is also clear that the form of an interlocutory injunction does not have to follow slavishly the form of the substantive relief which would be likely to be granted at the trial if the plaintiff succeeds.'<br>• MR. JUSTICE PETER GIBSON: 'While Mr. Turl appearing for the respondent relied on that authority in submitting that the learned judge had jurisdiction to make the order in the terms which he did, for my part I see no scope in the circumstances of this case for looking beyond the causes of action pleaded in the particulars of claim, amplified as they are by the affidavit evidence.'"
+		},
+		{
+			"name": "Kuddus (AP) v. Chief Constable of Leicestershire Constabulary [2001] UKHL 29",
+			"keywords": [
+				"exemplary damages",
+				"misfeasance in public office",
+				"vicarious liability",
+				"tort law",
+				"legal anomaly"
+			],
+			"summary": "<strong>Facts</strong><br>• The appellant, Kuddus, reported a theft at his flat to the police, suspecting a guest. <br>• Two months later, a police constable, without Kuddus's knowledge or consent, forged Kuddus's signature on a statement withdrawing the theft complaint, ceasing the investigation.<br>• The Chief Constable admitted the forgery and the officer's misfeasance in public office but contested the claim for exemplary damages, arguing they are not recoverable for misfeasance by a public officer.<br><br><strong>Issues</strong><br>• Kuddus argued for the recoverability of exemplary damages for misfeasance in public office, citing the need to deter and punish egregious misconduct by public officers.<br>• The Chief Constable contended that exemplary damages are not applicable to misfeasance in public office, aligning with existing legal precedents that limit the scope of such damages.<br><br><strong>Decision</strong><br>• The House of Lords allowed the appeal, holding that exemplary damages could be claimed for misfeasance in public office, expanding the scope of exemplary damages beyond traditional boundaries.<br><br><strong>Key passage(s)</strong><br>• Lord Hutton: 'In my opinion the power to award exemplary damages in such cases serves to uphold and vindicate the rule of law because it makes clear that the courts will not tolerate such conduct. It serves to deter such actions in future as such awards will bring home to officers in command of individual units that discipline must be maintained at all times.'<br>• Lord Scott of Foscote: 'In my opinion vicarious punishment, via an award of exemplary damages, is contrary to principle and should be rejected. The plaintiff's pleaded case against the Chief Constable of Leicestershire Constabulary is a vicarious liability case and no more. It does not, in my opinion, enable an award of exemplary damages to be made against the Chief Constable.'"
+		},
+		{
+			"name": "Kuwait Airways Corp v Iraqi Airways Co & Anor [2002] UKHL 19",
+			"keywords": [
+				"conversion",
+				"international law",
+				"public policy",
+				"double actionability",
+				"conflict of laws",
+				"tort law"
+			],
+			"summary": "<strong>Facts</strong><br>• In 1990, during the Iraqi invasion of Kuwait, Iraqi forces seized ten aircraft owned by Kuwait Airways Corporation (KAC).<br>• These aircraft were subsequently declared as property of Iraqi Airways Co (IAC) by Iraq's Revolutionary Command Council (RCC) resolution 369.<br>• KAC initiated proceedings in England against IAC for conversion, seeking the return of the aircraft or compensation.<br><br><strong>Issues</strong><br>• KAC argued that the aircraft were wrongfully converted and sought compensation.<br>• IAC contended that the actions were lawful under Iraqi law due to RCC resolution 369 and claimed state immunity.<br><br><strong>Decision</strong><br>• The House of Lords held that RCC resolution 369, which transferred KAC's aircraft to IAC, was not recognisable under English law due to its violation of international law.<br>• It was determined that the act of conversion could be tried in English courts, dismissing IAC's state immunity claim.<br><br><strong>Key passage(s)</strong><br>• Lord Nicholls: '...an English court will altogether disregard RCC resolution 369. An English court will not regard this decree of Iraqi law as effective to divest KAC of its title to the ten aircraft.'<br>• Lord Scott: '...the courts of this country give no recognition to Iraq's confiscation of the KAC aircraft or to Resolution 369.'"
+		},
+		{
+			"name": "Lagden v. O'Connor [2003] UKHL 64",
+			"keywords": [
+				"impecuniosity",
+				"credit hire",
+				"motor insurance",
+				"replacement vehicle",
+				"tort law"
+			],
+			"summary": "<strong>Facts</strong><br>• Mr. Lagden's car was damaged due to negligent driving by Ms. O'Connor.<br>• Mr. Lagden, being impecunious, could not afford to hire a replacement vehicle at the spot rate.<br>• He entered into a credit hire agreement with Helphire, which provided him a car and pursued charges from Ms. O'Connor's insurers.<br><br><strong>Issues</strong><br>• Mr. Lagden argued that due to his financial situation, the only feasible option was to use a credit hire company, which charged above the spot rate.<br>• Ms. O'Connor's insurers contended that only the spot hire rate should be recoverable, not the higher rates charged by credit hire companies.<br><br><strong>Decision</strong><br>• The House of Lords held that impecunious claimants could recover the reasonable costs of a credit hire company.<br>• This decision was based on the principle that the law should not expect the performance of the impossible from claimants and should account for practical realities.<br><br><strong>Key passage(s)</strong><br>• Lord Nicholls of Birkenhead: 'The law does not assess damages payable to an innocent plaintiff on the basis that he is expected to perform the impossible. The common law prides itself on being sensible and reasonable. It has regard to practical realities.'<br>• Lord Hope of Craighead: 'The evidence showed that Mr Lagden had no choice but to use the services of the credit hire company and that, if he was to make use of these services, he had no way of avoiding the additional benefits that were provided to him. The principles which I would apply are of general application. But it by no means follows that the same result must follow in every case where the innocent motorist uses the services of a credit hire company. The criterion that must be applied is whether he had a choice - whether it would have been open to him to go into the market and hire a car at the ordinary rates from an ordinary car hire company.'"
+		},
+		{
+			"name": "Lane v Holloway [1967] EWCA Civ 1",
+			"keywords": [
+				"assault",
+				"damages",
+				"provocation",
+				"civil liability",
+				"tort law"
+			],
+			"summary": "<strong>Facts</strong><br>• The incident occurred on July 21st, 1966, in Dorchester, where Mr. Lane, a 64-year-old retired gardener, was assaulted by Mr. Holloway, a 23-year-old café owner. The altercation began with a verbal exchange and escalated when Mr. Holloway punched Mr. Lane, causing severe injuries requiring hospital treatment.<br>• The initial conflict was over noise and disturbances from Mr. Holloway's café, which annoyed local residents including Mr. Lane.<br><br><strong>Issues</strong><br>• Mr. Holloway argued that no action for damages could lie as the fight was unlawful, invoking the principles of ex turpi causa non oritur actio (from a dishonorable cause an action does not arise) and volenti non fit injuria (to a willing person, injury is not done).<br>• Mr. Lane sought damages for the injuries sustained, arguing that the severity of Mr. Holloway's response with a disproportionate and savage blow justified a claim.<br><br><strong>Decision</strong><br>• The court held that Mr. Holloway was liable for the injuries inflicted on Mr. Lane. It was determined that the provocation by Mr. Lane did not justify the excessive force used by Mr. Holloway. The damages awarded by the lower court were deemed inadequate and were increased from £75 to £300.<br><br><strong>Key passage(s)</strong><br>• MASTER OF THE ROLLS: 'In this case the Judge found that 'with a young man of 23 and a man of 64, whom he knows to be somewhat infirm, the young man cannot plead a challenge seriously: nor is he entitled to go and strike him because of an insult hurled at his wife.' I quite agree. Mr. Holloway in anger went much too far. He gave a blow out of proportion to the occasion for which he must answer in damages.'<br>• LORD JUSTICE SALMON: 'To say in circumstances such as those that ex turpi causa non oritur actio is a defence seems to me to be quite absurd. Academically of course one can see the argument, but one must look at it, I think, from a practical point of view. To say that this old gentleman was engaged jointly with the defendant in a criminal venture is a step which, like the learned Judge, I feel wholly unable to take.'"
 		}
 	]
 }
